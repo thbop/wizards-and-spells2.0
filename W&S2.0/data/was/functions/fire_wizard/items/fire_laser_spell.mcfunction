@@ -21,9 +21,9 @@ execute at @a[tag=firew_fire_lasers] if block ^ ^1 ^9 grass_block run setblock ^
 execute at @a[tag=firew_fire_lasers] if block ^ ^1 ^8 stone run setblock ^ ^1 ^11 magma_block
 execute at @a[tag=firew_fire_lasers] if block ^ ^1 ^8 grass_block run setblock ^ ^1 ^11 crimson_nylium
 
-execute at @a[tag=firew_fire_lasers] positioned ^ ^1 ^7 run effect give @e[tag=!firew,distance=..1] minecraft:instant_damage 3 1 true
-execute at @a[tag=firew_fire_lasers] positioned ^ ^1 ^6 run effect give @e[tag=!firew,distance=..1] minecraft:instant_damage 3 1 true
-execute at @a[tag=firew_fire_lasers] positioned ^ ^1 ^5 run effect give @e[tag=!firew,distance=..1] minecraft:instant_damage 3 1 true
-execute at @a[tag=firew_fire_lasers] positioned ^ ^1 ^4 run effect give @e[tag=!firew,distance=..1] minecraft:instant_damage 3 1 true
-execute at @a[tag=firew_fire_lasers] positioned ^ ^1 ^3 run effect give @e[tag=!firew,distance=..1] minecraft:instant_damage 3 1 true
-execute at @a[tag=firew_fire_lasers] positioned ^ ^1 ^2 run effect give @e[tag=!firew,distance=..1] minecraft:instant_damage 3 1 true
+execute at @a[tag=firew_fire_lasers] positioned ^ ^1 ^7 run effect give @e[tag=!firew,distance=..1] minecraft:instant_damage 1 1 true
+execute at @a[tag=firew_fire_lasers] positioned ^ ^1 ^6 run effect give @e[tag=!firew,distance=..1] minecraft:instant_damage 1 1 true
+execute at @a[tag=firew_fire_lasers] positioned ^ ^1 ^5 run effect give @e[tag=!firew,distance=..1] minecraft:instant_damage 1 1 true
+execute at @a[tag=firew_fire_lasers] positioned ^ ^1 ^4 run effect give @e[tag=!firew,distance=..1] minecraft:instant_damage 1 1 true
+execute at @a[tag=firew_fire_lasers] positioned ^ ^1 ^3 run effect give @e[tag=!firew,distance=..1] minecraft:instant_damage 1 1 true
+execute at @a[tag=firew_fire_lasers] positioned ^ ^1 ^2 run effect give @e[tag=!firew,distance=..1] minecraft:instant_damage 1 1 true

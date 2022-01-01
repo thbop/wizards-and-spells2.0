@@ -1,0 +1,1 @@
+function was:deep_wizard/crafting/flight_spell

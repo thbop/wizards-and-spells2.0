@@ -1,1 +1,0 @@
-function was:deep_wizard/items/flight_spell
